@@ -1,6 +1,6 @@
 # Bit Slicer - macOS Memory Scanner for App and Game Value Analysis
 
-![Bit Slicer memory scanner interface with address search and value editing](https://preview.redd.it/macos-catalina-to-big-sur-was-a-big-jump-v0-3r8joaysw1cg1.png?width=2000&format=png&auto=webp&s=2c0d96d5b2dabb113e024419ceb3c6ed716d864d)
+![Bit Slicer memory scanner interface with address search and value editing](https://zgcoder.net/software/bitslicer/images/old/bitslicer_1.png)
 
 ## Why Bit Slicer Matters on macOS
 
